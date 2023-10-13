@@ -1,0 +1,52 @@
+ 
+ .dan {
+   background-color: #964fb1;
+   font-family: Arial;
+   top: 0;
+   padding: 0;
+ }
+ 
+ .plus {
+   color: #fff;
+   font-size: 25px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   line-height: 44px;
+   transition: 0.15s ease-in-out;
+ }
+ 
+ .plus:hover {
+   color: rgb(19,214,36);
+   transition: 0.15s ease-in-out;
+ }
+ 
+  .daniel {
+    margin-top: 30px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    margin-left: 20px;
+    transition: 0.15s ease-in-out;
+  }
+  .daniel:hover{
+    transform: translateY(-20px);
+    transition: 0.15s ease-in-out;
+  }
+
+.love {
+  display: inline-block;
+  border-radius: 8px;
+  color: #fff;
+  background-color: rgb(20, 9, 168);
+  padding: 9px 8px 9px 8px;
+  bottom: 0;
+  margin: 0;
+  font-size: 13px;
+  transition: 0.15s;
+}
+.love:hover {
+  color: : rgb(20, 9, 168);
+  background-color: rgb(19,214,36);
+  transition: 0.15s ease-in-out;
+}
